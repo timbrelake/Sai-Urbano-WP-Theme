@@ -1,0 +1,1 @@
+This theme is a school-use only project.
